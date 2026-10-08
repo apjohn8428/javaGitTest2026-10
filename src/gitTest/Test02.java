@@ -17,6 +17,12 @@ public class Test02 {
 		System.out.println(sub);
 		System.out.println(pro);
 		System.out.println(div);
+		
+		//2차 작업
+		int num = 25;
+		if(num%2 != 0) {
+			System.out.println("홀수");
+		}
 	}
 
 }
